@@ -1,2 +1,2 @@
-#Ignore data files that are too large
-Data/
+#Ignore aggregated data files that are too large
+Data/01_Raw/SF Airbnb Raw Data/SF Airbnb Raw Data - Aggregated/

@@ -1,2 +1,8 @@
-#Ignore aggregated data files that are too large
+#Ignore aggregated data files(too large)
 Data/01_Raw/SF Airbnb Raw Data/SF Airbnb Raw Data - Aggregated/
+Data/02_Intermediate/
+Data/03_Processed/
+Data/04_Models/
+Data/05_Model_Output/
+Data/06_Reporting/
+

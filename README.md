@@ -10,3 +10,7 @@ listing to keep their prices profitable but also fair?
 next year? 
 - Where are the best places to stay in San Francisco? What about the most expensive? When are the best days to visit and what time of year would it be the most affordable to visit?
 
+NLP
+- What are some things that hosts makes a positive user experience? What about a negative user experience? What are the commonalities among them within the review data?
+- How would you advise a first time Airbnb host to ensure a great user experience? What are some goods/additional services a new host can provide to help ensure continued business on the Airbnb platform?
+

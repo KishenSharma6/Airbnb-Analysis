@@ -1,9 +1,9 @@
 # Airbnb-Analysis-NLP-ML-DeepLearning
-In this repo, I will be investigating the growth of Airbnb in the San Francisco over the last 18 months or so. I will be investigating the following:
+In this repo, I will be investigating the growth of Airbnb in the San Francisco over the last 18 months (October 2018  – March 2020). I will be investigating the following:
 
 Listings Data
 
-Where are the best neighborhoods to stay in San Francisco? What about the most expensive? When are the best days to visit and what time of year would it be the most affordable to visit? How many properties are rented for long-term use and how many are being rented for tourists? How much revenue is being generated for these hosts?
+Where are the best neighborhoods to stay in San Francisco? What about the most expensive? When are the best days to visit and what time of year would it be the most affordable to visit? How many properties are rented for long-term use and how many are being rented for tourists? How much revenue is being generated for these hosts? How does long term rental compare to the average rent in SF?
 How many nights a year is a dwelling occupied on average per month? What months are the most popular for rentals in San Francisco?
 I will use Supervised Learning techniques to build a price predictor for a one-night stay in San Francisco. From the model, which features were the most important in deciding the price point? Are these features within the control of an Airbnb host to change (without relocation)?
 

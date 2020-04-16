@@ -9,7 +9,7 @@ I will use Supervised Learning techniques to build a price predictor for a one-n
 
 
 Calendar Data
-How has the number of Airbnb properties changed over the last 18 months? How have the total number of listings increased during this time period? What about the number of bookings? What can you tell me about the average price for available and unavailable listings during this time period? Is their any interesting trends or seasonality? Can you project Airbnb’s growth through Q2 in 2020 as well as changes in prices? 
+How has the number of Airbnb properties changed over the last 18 months? How have the total number of bookings increased during this time period? How has net rental income changed? Is their any interesting trends or seasonality? Can you project Airbnb’s growth through Q2 in 2020 as well as changes in gross rental income? 
 
 Reviews Data
 How many users report having a positive experience with their Airbnb? What about negative? What are the most common topics discussed in the positive reviews as compared to the negative reviews?
